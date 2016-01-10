@@ -46,6 +46,7 @@ group :development do
 end
 
 gem 'spree_multi_domain', git: 'git://github.com/spree/spree-multi-domain.git'
+gem 'spree_blue_theme', :git => 'git://github.com/spree/spree_blue_theme.git'
 
 gem 'spree', '3.0.4'
 gem 'spree_gateway', github: 'spree/spree_gateway', branch: '3-0-stable'
